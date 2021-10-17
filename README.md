@@ -1,5 +1,5 @@
 # ModernInterface-Java-Swing
-ModernInterface in Java Swing
+ModernInterface in Java Swing (Events and design)
 
 <h1>Screenshot</h1>
 
